@@ -25,5 +25,5 @@ This tag accepts 3 optional attributes:
   * `height`: *optional*. Number that sets the height of the spinner. By default it is 80;
   * `width`: *optional*. Number that sets the width of the spinner. By default it is 80;
   * `thickness`: *optional*. Number that sets the thickness of the spinner. By default it is 10;
-  * `imageUrl`: *optional*. String that specifies an image url to override the default spinner. Note that if you use a custom image, the other attributes will be ignored;
+  * `imageUrl`: *optional*. String that specifies an image url to override the default spinner. Note that if you use a custom image, other attributes will be ignored;
 * `theme`: *Not implemented yet*.
